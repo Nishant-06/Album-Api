@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Album Creation</string>
+    <string name="error_occured">Error occured</string>
+</resources>
